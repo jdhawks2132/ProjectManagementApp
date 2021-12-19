@@ -3,8 +3,7 @@
 # FIS-Assist/ Project Management App
 
 ## Live Deployment Links
-https://hawksnest-c3df1.firebaseapp.com/login
-Frontend and Backend both deployed on Google Firebase
+[Frontend and Backend both deployed on Google Firebase](https://hawksnest-c3df1.firebaseapp.com/login)
 
 ## Project Planning
 

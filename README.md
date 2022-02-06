@@ -5,6 +5,14 @@
 ## Live Deployment Links
 [Frontend and Backend both deployed on Google Firebase](https://hawksnest-c3df1.firebaseapp.com/login)
 
+## About
+
+FIS-Assist was designed as a communication tool for Flation students during their Pre-Work phase.
+
+## Learning Goals
+
+During my Flatiron curriculum, we learn Sinatra/Active Record and Ruby on Rails as backend frameworks. Both of which utilize SQL databases and I wanted to explore a NoSQL platform like Google Firebase. This app was created using Firestore as a backend and also integrates Firebase Authorization, Storage and Hosting. Since then, I have created several small projects with NoSQL/ Cloud-based hosting. 
+
 ## Project Planning
 
 - Frontend 
